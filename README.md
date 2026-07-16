@@ -1,7 +1,7 @@
 # 📊 ContaMaster — Estudio Contable Profesional
 
-Landing page profesional desarrollada como proyecto académico en el curso **Hojas de Estilo en Cascada Avanzado (UTP, Ciclo 2026-1)**.  
-El sitio web representa un **estudio contable moderno**, aplicando de manera integral técnicas avanzadas de **CSS, JavaScript y arquitectura modular**.
+Landing page profesional desarrollada como nuestro proyecto académico en el curso **Hojas de Estilo en Cascada Avanzado (UTP, Ciclo 2026-1)**.  
+El sitio web representa un **estudio contable moderno**, aplicando técnicas de **CSS y JavaScript**.
 
 ---
 
