@@ -75,7 +75,6 @@ Proyecto desarrollado por el equipo **ContaMaster** como parte del curso *Hojas 
 **Integrantes:**
 - Mena Rodriguez Juan Sebastian  
 - Ortiz Huaman Jose Alfredo  
-- Padilla Gavino Roger Marino  
 - Palacios Vives Julio Gabriel  
 - Paredes Chayña Jose Ariel  
 - Conislla Yvala Fidel Manuel  
